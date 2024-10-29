@@ -1,5 +1,6 @@
 {
   "evento": "Revisión Médica",
-  "fechaInicio": "PT1H30M",
-  "fechaFin": "2024-10-29T11:00:00-05:00"
+  "fechaInicio": "2024-10-29T10:00:00-05:00",
+  "fechaFin": "2024-10-29T11:00:00-05:00",
+  "duracion": "PT1H30M"
 }
